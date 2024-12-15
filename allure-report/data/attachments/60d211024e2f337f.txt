@@ -1,0 +1,20 @@
+{
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzEwYjViOGFlMmFmZDRjMGI5ZTI1YWUiLCJ1c2VyRW1haWwiOiJtdWt1bGphaW5AZ21haWwuY29tIiwidXNlck1vYmlsZSI6MTIzNDU2Nzg5MCwidXNlclJvbGUiOiJjdXN0b21lciIsImlhdCI6MTcyOTY4Mzg4MiwiZXhwIjoxNzYxMjQxNDgyfQ.HrEcFdXlBMVeAxtSx2RR1m9o8CZyI540uE2gnAYpMLw',
+  userId: '6710b5b8ae2afd4c0b9e25ae',
+  message: 'Login Successfully'
+}
+[ 'ZARA COAT 3', 'ADIDAS ORIGINAL', 'IPHONE 13 PRO', 'qwerty' ]
+4
+{
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzEwYjViOGFlMmFmZDRjMGI5ZTI1YWUiLCJ1c2VyRW1haWwiOiJtdWt1bGphaW5AZ21haWwuY29tIiwidXNlck1vYmlsZSI6MTIzNDU2Nzg5MCwidXNlclJvbGUiOiJjdXN0b21lciIsImlhdCI6MTcyOTY4MzkwOSwiZXhwIjoxNzYxMjQxNTA5fQ.0uoczTwCzd7qt0_pD2TrOaH2Ul3XRLO2kmtXiNMzpyY',
+  userId: '6710b5b8ae2afd4c0b9e25ae',
+  message: 'Login Successfully'
+}
+{
+  status: 201,
+  data: {
+    orders: [ '6718e1c6ae2afd4c0ba5f1ec' ],
+    productOrderId: [ '6581ca399fd99c85e8ee7f45' ],
+    message: 'Order Placed Successfully'
+  }
+}

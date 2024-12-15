@@ -1,0 +1,31 @@
+{
+  "name": "playwrighte2e_project",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "regression": "npx playwright test",
+    "smoke": "npx  playwright test /tests/ClientAppTest/ClientAppPOM.spec.js  --config playwright1.config.js --project=chromium --grep \"smoke\" --reporter=line,allure-playwright",
+    "APITest": "npx  playwright test /tests/APITest/  --config playwright1.config.js --project=chromium --grep \"API\" --reporter=line,allure-playwright",
+    "demo": "npx  playwright test /tests/  --config playwright1.config.js --project=chromium --grep \"demo\"  --reporter=line,allure-playwright",
+    "WEBTest": "npx  playwright test /tests/APITest/  --config playwright1.config.js --project=chromium --grep \"web\" --reporter=line,allure-playwright",
+    "cucumberTest":"npx cucumber-js --tags \"@regression\" --retry 1  --exit --format html:cucumber-report.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.0.1",
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.5",
+    "allure-playwright": "^3.0.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3",
+    "webkit": "^0.0.0"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "playwright": "^1.48.0"
+  }
+}

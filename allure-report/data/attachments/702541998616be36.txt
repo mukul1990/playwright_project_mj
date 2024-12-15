@@ -1,0 +1,18 @@
+{
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzEwYjViOGFlMmFmZDRjMGI5ZTI1YWUiLCJ1c2VyRW1haWwiOiJtdWt1bGphaW5AZ21haWwuY29tIiwidXNlck1vYmlsZSI6MTIzNDU2Nzg5MCwidXNlclJvbGUiOiJjdXN0b21lciIsImlhdCI6MTcyOTY3NTc5NCwiZXhwIjoxNzYxMjMzMzk0fQ.cH0JvDWVRxo4cgoMenRXCpxbTuiSHuo8u0nxY4_3USw',
+  userId: '6710b5b8ae2afd4c0b9e25ae',
+  message: 'Login Successfully'
+}
+{
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzEwYjViOGFlMmFmZDRjMGI5ZTI1YWUiLCJ1c2VyRW1haWwiOiJtdWt1bGphaW5AZ21haWwuY29tIiwidXNlck1vYmlsZSI6MTIzNDU2Nzg5MCwidXNlclJvbGUiOiJjdXN0b21lciIsImlhdCI6MTcyOTY3NTc5NCwiZXhwIjoxNzYxMjMzMzk0fQ.cH0JvDWVRxo4cgoMenRXCpxbTuiSHuo8u0nxY4_3USw',
+  userId: '6710b5b8ae2afd4c0b9e25ae',
+  message: 'Login Successfully'
+}
+{
+  status: 201,
+  data: {
+    orders: [ '6718c213ae2afd4c0ba5c261' ],
+    productOrderId: [ '6581ca399fd99c85e8ee7f45' ],
+    message: 'Order Placed Successfully'
+  }
+}

@@ -1,0 +1,1 @@
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":5,"buildName":"Playwright-execution #5","buildUrl":"http://localhost:8080/job/Playwright-Framework/5/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/Playwright-Framework/5/allure"}]
